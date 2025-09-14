@@ -36,6 +36,11 @@
   - Maps the brightness of each pixel to values from the `char` set;
   - Generates the output files.
 
+## **Example:**
+Input and output below:
+
+![Album cover of Elliot Smith's album Either/Or: a man sitting wearing black clothes and a cap facing the camera with a orange/brown tint](https://github.com/asfrezende/ASCII-Art-Generator/blob/main/eitheror.png?raw=true) ![Album cover of Elliott Smith's album Either/Or coverted to colored ASCII characters](https://github.com/asfrezende/ASCII-Art-Generator/blob/main/ascii_ver_eitheror.png?raw=true)
+
 ### **Notes**
 - I'm using the "lucon.ttf" font from Windows. If needed, you shall change the font path.
 - This script was made based on the tutorial of the YouTuber Raphson, which you can find [here](https://www.youtube.com/@Raphson/videos).
